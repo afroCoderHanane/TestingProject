@@ -1,6 +1,4 @@
 // filename: point.cpp
-#include <iostream>
-using namespace std;
 #include "Point.h"
 int point::getX() const { return x; }
 int point::getY() const { return y; }
